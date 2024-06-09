@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Preethiviraj
 - 👀 Fresher
 - 🌱 I’m currently learning  java and Mysql
-- 📫 20eumt057@skcet.ac.in
+- 📫 preethiviraj.be@gmail.com
 
 
 ### Languages:
