@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Preethiviraj
 - 👀 Fresher
-- 🌱 I’m currently learning  java and Mysql
+- 🌱 I’m currently learning Full Stack
 - 📫 preethiviraj.be@gmail.com
 
 
