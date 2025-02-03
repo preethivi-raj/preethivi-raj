@@ -8,8 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m Preethiviraj
-- 👀 Fresher
-- 🌱 I’m currently learning Full Stack
+- 👀 DevOps Engineer
 - 📫 preethiviraj.be@gmail.com
 
 
